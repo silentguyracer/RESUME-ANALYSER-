@@ -1,0 +1,24 @@
+# Environments
+venv/
+.env
+.venv
+env/
+bin/
+lib/
+share/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local settings
+.vscode/
+.idea/
+.DS_Store
+
+# Temporary files
+*.log
+tmp/
+temp/
